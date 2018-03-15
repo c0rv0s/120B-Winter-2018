@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "microcontroller_2", "microcontroller_2\microcontroller_2.cproj", "{BEECB2FF-D90A-46D2-979A-B22989E880EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEECB2FF-D90A-46D2-979A-B22989E880EF}.Debug|AVR.ActiveCfg = Debug|AVR
+		{BEECB2FF-D90A-46D2-979A-B22989E880EF}.Debug|AVR.Build.0 = Debug|AVR
+		{BEECB2FF-D90A-46D2-979A-B22989E880EF}.Release|AVR.ActiveCfg = Release|AVR
+		{BEECB2FF-D90A-46D2-979A-B22989E880EF}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
